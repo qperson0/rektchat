@@ -1,2 +1,2 @@
-# rektchat
-Racket Chat Client + Server
+# RektChat
+
