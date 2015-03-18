@@ -1,5 +1,5 @@
 # Contributors
-Edward
-Quinn
-Paul
-Eric
+* Edward
+* Quinn
+* Paul
+* Eric
